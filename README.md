@@ -20,7 +20,7 @@ The emphasis is on the intuition behind each method,
 as well as on a practitioner's guide, 
 highlighting the applicability of each method to each setting.
 
-For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/shiralkarprashant/fact-checking-tutorial-KDD2018/blob/master/docs/FactCheckingTutorial.pdf)
+For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/subhabratamukherjee/fact-checking-tutorial-KDD2018/blob/master/FactCheckingTutorial.pdf)
 
 ## Outline
 
