@@ -22,6 +22,8 @@ highlighting the applicability of each method to each setting.
 
 For more details, see [Proposal - Fact Checking: Theory and Practice (KDD 2018)](https://github.com/subhabratamukherjee/fact-checking-tutorial-KDD2018/blob/master/FactCheckingTutorial.pdf)
 
+ACM Reference Format: Xin Luna Dong, Christos Faloutsos, Xian Li, Subhabrata Mukherjee, Prashant Shiralkar. 2018. Fact Checking: Theory and Practice Tutorial. In KDD ’18: The 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, August 19-23, 2018, London, United Kingdom.
+
 ## Outline
 
 ### Fact Checking: Theory and Practice (KDD 2018) [[All slides](http://bit.ly/factcheck-kdd2018-full)]
